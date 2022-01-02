@@ -71,6 +71,7 @@ header {
   font-size: 19px;
   border: 1px #eee solid;
   transition: 0.3s;
+  color: #ff6a95; /* For 'dark mode' */
 }
 
 .rating li label {
